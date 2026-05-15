@@ -25,3 +25,25 @@ Save CSV
 
 Output Example
 Add screenshot.
+
+
+
+--WORKFLOW--
+
+Website
+   ↓
+requests downloads HTML
+   ↓
+BeautifulSoup reads HTML
+   ↓
+find_all finds books
+   ↓
+for loop checks each book
+   ↓
+extract title/price/rating
+   ↓
+store in list
+   ↓
+pandas creates table
+   ↓
+save CSV
