@@ -5,3 +5,23 @@ webscraping-books-project/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+
+
+
+Objective
+Scrape book data from Books To Scrape website.
+
+Technologies Used
+Python
+BeautifulSoup
+Requests
+Pandas
+
+Features
+Extract titles
+Extract prices
+Extract ratings
+Save CSV
+
+Output Example
+Add screenshot.
